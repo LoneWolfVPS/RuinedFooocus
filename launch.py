@@ -93,8 +93,8 @@ def download_models():
     model_filenames = [
         (
             path_manager.model_paths["modelfile_path"],
-            "sd_xl_base_1.0_0.9vae.safetensors",
-            "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors",
+            "cyberrealisticXL_v4.safetensors",
+            "https://huggingface.co/LoneWolfVPS/cybrrlstc/resolve/main/cyberrealisticXL_v4.safetensors",
         ),
         (
             path_manager.model_paths["lorafile_path"],
